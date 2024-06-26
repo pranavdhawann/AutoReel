@@ -1,10 +1,10 @@
-# MoneyMaker: Automated Video Creater
+# AutoReel: Automated Video Creater
 This project automates the process of creating videos from Reddit posts. It fetches hot posts from a specified subreddit, converts the text to speech using a pre-trained TTS model, combines the generated speech with a background video, transcribes the audio to generate subtitles, and finally overlays these subtitles on the video. The result is a fully processed video with synchronized audio and subtitles.
 
 ![image](https://github.com/pranavdhawann/MoneyMaker/assets/74893835/b8c3e3ca-d5b9-49eb-a1ac-320376c5e2f7)
 
 ## Table of Contents
-- [MoneyMaker](#MoneyMaker)
+- [AutoReel](#AutoReel)
 - [Table of Contents](#table-of-contents)
 - [Features](#features)
 - [Requirements](#requirements)
@@ -41,8 +41,8 @@ Specify the subreddit you want to fetch posts from.
 ## Usage
 1. Clone the repository:
    ```
-    git clone https://github.com/pranavdhawann/MoneyMaker.git
-    cd MoneyMaker
+    git clone https://github.com/pranavdhawann/AutoReel.git
+    cd AutoReel
    ```
 2. Create a virtual environment:
    ```
