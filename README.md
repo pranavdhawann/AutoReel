@@ -67,4 +67,4 @@ Specify the subreddit you want to fetch posts from.
 Contributions are welcome! Feel free to give input to this repository and submit pull requests.
 
 ## License
-This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. You are free to share and adapt the material for any purpose, even commercially, as long as you give appropriate credit. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
