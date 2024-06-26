@@ -1,0 +1,9 @@
+torch==2.0.1
+numpy==1.23.5
+soundfile==0.10.3.post1
+praw==7.6.0
+moviepy==1.0.3
+transformers==4.30.2
+datasets==2.12.0
+whisper==1.0
+ffmpeg-python==0.2.0
