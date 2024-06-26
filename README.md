@@ -1,7 +1,7 @@
 # MoneyMaker: Automated Video Creater
 This project automates the process of creating videos from Reddit posts. It fetches hot posts from a specified subreddit, converts the text to speech using a pre-trained TTS model, combines the generated speech with a background video, transcribes the audio to generate subtitles, and finally overlays these subtitles on the video. The result is a fully processed video with synchronized audio and subtitles.
 
-<!--![image](https://github.com/pranavdhawann/MoneyMaker/assets/74893835/1fdf25a6-1177-476b-b936-39b22f815044)-->
+![image](https://github.com/pranavdhawann/MoneyMaker/assets/74893835/b8c3e3ca-d5b9-49eb-a1ac-320376c5e2f7)
 
 ## Table of Contents
 - [MoneyMaker](#MoneyMaker)
